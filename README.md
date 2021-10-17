@@ -14,7 +14,7 @@ This project gives a user the ability to search for a book using the Google Book
 * [Questions](#questions)
 
 ## Installation
-The following necessary dependencies must be installed to run the application properly: This is a live application deployed on Heroku here: . If you want to play with the source code yourself you can clone the repository to your local machine in a created folder of your making.
+The following necessary dependencies must be installed to run the application properly: This is a live application deployed on Heroku here: . If you want to play with the source code yourself you can clone the repository to your local machine in a created folder of your making. From there run "npm i" to install all required dependencies.
 
 ## Usage
 To use this application: You can use the project deployed on Heroku here: [Book Search Engine](https://jefarth-book-search-engine.herokuapp.com/).
